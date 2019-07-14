@@ -1,8 +1,9 @@
 # Berlin2020
 
-Berlin 2020, im Hinterhof wird gegrillt.
+Berlin in the year 2020. Choose your own adventure.
 
-[Option A Boot aufblasen](https://github.com/NoCodeForOldMen/Berlin2020/blob/master/S001.md)
+
+[Option A inflate your boat](https://github.com/NoCodeForOldMen/Berlin2020/blob/master/S001.md)
 
 Option B grillen
 
