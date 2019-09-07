@@ -1,5 +1,7 @@
 # SPOILER
 
+Das ist die Übersicht, sie gibt einen Überblick über die Seite sowie alle Entscheidungsstränge wieder
+
 0 
 Einleitung Grillen
 
