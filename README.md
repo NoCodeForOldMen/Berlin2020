@@ -1,4 +1,4 @@
-Diese Gescichte handelt im Jahr 2025 in Berlin und du entscheidest wie es weitergeht.
+Diese Geschichte spielt im Jahr 2025 in Berlin und du entscheidest wie es weitergeht.
 
 [Start.](https://github.com/NoCodeForOldMen/Berlin2020/blob/master/lib/S000%20Start.md)
 
