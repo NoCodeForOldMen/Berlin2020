@@ -10,5 +10,6 @@ Du drehst dich um und siehst zwei Möglichkeiten zu entkommen:
 
 [2. Das Schlauchboot mit allen Mitteln behalten: Zu einer Wohnung mit sehr großen Fenstern in dem hinteren Teil des Innenhof fahren, dort einbrechen und durch die Wohnung zur Hauptstraße paddeln.](https://github.com/NoCodeForOldMen/Berlin2020/blob/master/lib/S002.md)
 
-Bild Mauer
-Bild Fenster
+Einfügen: Bild Mauer
+
+Einfügen: Bild Fenster
