@@ -8,5 +8,9 @@ Einleitung
 2. Durch die Wohnungen paddeln->S2
 
 S1
+1. Richtung Hermannplatz im Uhrzeigersinn gehen 
+2. Richtung Verbindungsstraße gegen den Uhrzeigersinn gehen
 
 S2
+1.
+2.
