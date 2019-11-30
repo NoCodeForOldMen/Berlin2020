@@ -12,5 +12,6 @@ S1
 2. Richtung Verbindungsstraße gegen den Uhrzeigersinn gehen
 
 S2
+
 1.
 2.
